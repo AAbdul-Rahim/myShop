@@ -529,9 +529,9 @@ body{
     margin: 5em auto;
     padding: 4em 2.5%;
 }
-.about-text-wrap{
-    /*padding: 2em;*/
-}
+/* .about-text-wrap{
+    padding: 2em;
+} */
 .about-text-wrap h6{
     color: orange;
     font-size: 1.5em;
